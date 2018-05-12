@@ -1,0 +1,40 @@
+_repo: The-Glory-of-The-ComingYear-Of-Grace-and-Allied-Endeavor_44225
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobb, Irvin S. (Irvin Shrewsbury)
+    alias: Cobb, Irvin Shrewsbury
+    birthdate: 1876
+    deathdate: 1944
+    gutenberg_agent_id: '559'
+    url: http://www.gutenberg.org/2009/agents/559
+    wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
+description: ''
+gutenberg_issued: '2013-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44225'
+  lccn: '18023559'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives'
+- !lcsh 'World War, 1914-1918 -- United States'
+- !lcsh 'World War, 1914-1918 -- Participation, African American'
+- !lcc 'D501'
+tableOfContents: 'When the sea-asp stings -- "All Amurikin, out to them wires" --
+  Hell''s fire for the Huns -- On the threshold of battle -- Setting a trap for opportunity
+  -- Through the battle''s front door -- At the front of the front -- A bridge and
+  an automobile tire -- Aces up! -- Happy landings -- Trench essence -- Being bombed
+  and re-bombed -- London under raid-punishment -- The day of Big Bertha -- Wanted:
+  a fool-proof war -- Conducting war by delegation -- Young black joe -- "Let''s go!"
+  -- War as it isn''t -- The call of the cuckoo -- Paradoxes behind the lines -- The
+  tail of the snake -- Bricks without straw -- From my overseas note-book.'
+title: "The Glory of the Coming\r\nWhat Mine Eyes Have Seen of Americans in Action\
+  \ in This Year of Grace and Allied Endeavor"
+url: http://www.gutenberg.org/ebooks/44225
